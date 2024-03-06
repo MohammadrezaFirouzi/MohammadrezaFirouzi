@@ -1,18 +1,18 @@
 ## Languages and Tools :
-<ul class="language-list">
+<ul class="language-list" style= "display: flex;align-items: center;margin-bottom: 5px;">
   <li class="language-item">
     <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" style="margin-right: 10px;width: 40px;height: 40px;">
     <span class="language-name">Java</span>
   </li>
-  <li class="language-item">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" style= "display: flex;align-items: center;margin-bottom: 5px;">
+  <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;"> 
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP">
     <span class="language-name">PHP</span>
   </li>
-  <li class="language-item">
+  <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
     <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin">
     <span class="language-name">Kotlin</span>
   </li>
-  <li class="language-item">
+  <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
     <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python">
     <span class="language-name">Python</span>
   </li>
