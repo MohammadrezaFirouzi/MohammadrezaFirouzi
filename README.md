@@ -1,13 +1,22 @@
 ## Languages and Tools :
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
-  
-</div>
+<ul class="language-list">
+  <li class="language-item">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java">
+    <span class="language-name">Java</span>
+  </li>
+  <li class="language-item">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP">
+    <span class="language-name">PHP</span>
+  </li>
+  <li class="language-item">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin">
+    <span class="language-name">Kotlin</span>
+  </li>
+  <li class="language-item">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python">
+    <span class="language-name">Python</span>
+  </li>
+  </ul>
 
 
 ---
