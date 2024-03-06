@@ -1,7 +1,7 @@
 ## Languages and Tools :
 <ul class="language-list">
   <li class="language-item">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" style="margin-right: 10px;width: 40px;height: 40px;">
     <span class="language-name">Java</span>
   </li>
   <li class="language-item">
