@@ -14,7 +14,7 @@
   </li>
   <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
     <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" style="margin-right: 10px;width: 40px;height: 40px;">
-    <span class="language-name">Python</span>
+    <span class="language-name" style= "font-weight: bold;">Python</span>
   </li>
   </ul>
 
