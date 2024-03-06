@@ -5,7 +5,7 @@
     <span class="language-name">Java</span>
   </li>
   <li class="language-item">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" style= "display: flex;align-items: center;margin-bottom: 5px;">
     <span class="language-name">PHP</span>
   </li>
   <li class="language-item">
