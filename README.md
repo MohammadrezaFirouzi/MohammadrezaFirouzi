@@ -1,22 +1,12 @@
 ## Languages and Tools :
-<ul class="language-list">
-  <li class="language-item">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" style="margin-right: 10px;width: 40px;height: 40px;">
-    <span class="language-name">Java</span>
-  </li>
-  <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;"> 
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" style="margin-right: 10px;width: 40px;height: 40px;">
-    <span class="language-name">PHP</span>
-  </li>
-  <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin" style="margin-right: 10px;width: 40px;height: 40px;">
-    <span class="language-name">Kotlin</span>
-  </li>
-  <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" style="margin-right: 10px;width: 40px;height: 40px;">
-    <span class="language-name" style= "font-weight: bold;">Python</span>
-  </li>
-  </ul>
+<div style="display: inline_block">
+    <p><img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> Java</p>
+    <p><img align="center" alt="PHP" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> PHP</p>
+    <p><img align="center" alt="Kotlin" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"> Kotlin</p>
+    <p><img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> Python</p>
+    <p><img align="center" alt="Android Studio" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> Android Studio</p>
+    <p><img align="center" alt="Gradle" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg"> Gradle</p>
+  </div>
 
 
 ---
