@@ -7,7 +7,6 @@
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
   
-  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/Electron-original.svg">
 </div>
 
 
