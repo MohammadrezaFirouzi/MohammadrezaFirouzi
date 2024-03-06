@@ -5,15 +5,15 @@
     <span class="language-name">Java</span>
   </li>
   <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;"> 
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" style="margin-right: 10px;width: 40px;height: 40px;">
     <span class="language-name">PHP</span>
   </li>
   <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin" style="margin-right: 10px;width: 40px;height: 40px;">
     <span class="language-name">Kotlin</span>
   </li>
   <li class="language-item" style= "display: flex;align-items: center;margin-bottom: 5px;">
-    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python">
+    <img class="language-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" style="margin-right: 10px;width: 40px;height: 40px;">
     <span class="language-name">Python</span>
   </li>
   </ul>
