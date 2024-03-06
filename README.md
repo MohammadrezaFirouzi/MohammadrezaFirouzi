@@ -1,7 +1,7 @@
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 
 <p align="center">
-<a href="https://www.coffeebede.com/MohammadRezaFirouzi" target="_blank"><img src="https://www.coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.coffeebede.com/MohammadRezaFirouzi" target="_blank"><img src="https://www.coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy Me A Coffee" height="300" width="400"></a>
 </p>
 
 <div style="display: inline_block"><br>
